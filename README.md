@@ -1,2 +1,2 @@
 # Selenium-and-Java-Basics_2
-Java-based Selenium basics
+Basics of Java-based Selenium
