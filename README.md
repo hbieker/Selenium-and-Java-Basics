@@ -1,4 +1,4 @@
-# Selenium-and-Java-Basics_2
+# Selenium-and-Java-Basics
 <b>Basics of Java-based Selenium </b> <br>
 
 Creating new Firefox, Chrome, I.E. webdrivers <br>
